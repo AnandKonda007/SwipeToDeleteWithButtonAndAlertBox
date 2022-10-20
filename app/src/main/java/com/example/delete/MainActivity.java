@@ -108,3 +108,6 @@ public class MainActivity extends AppCompatActivity {
         itemTouchhelper.attachToRecyclerView(recyclerView);
     }
 }
+//Refered Links
+// https://hamzabinamin.github.io/blog/android/recycler-view-swipe-edit-delete/
+//https://codeburst.io/android-swipe-menu-with-recyclerview-8f28a235ff28
